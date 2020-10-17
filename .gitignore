@@ -10,6 +10,7 @@
 *.userosscache
 *.sln.docstates
 .vscode/
+.config/ 
 bin/
 obj/
 
